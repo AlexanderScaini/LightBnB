@@ -1,3 +1,6 @@
+
+
+
 INSERT INTO users (name, email, password) 
 VALUES ('Eva Stanley','sebastina@ymail.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
 ('Alex Scaini','yes@email.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70tGevYzYzQgFId2u.'),
